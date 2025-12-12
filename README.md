@@ -1,7 +1,7 @@
 Olá! Eu sou o Leonardo
 
 -> Desenvolvedor Java em início de carreira  
--> Construindo projetos para criar um portfólio forte  
+-> Construindo projetos e postando eles diretamente aqui
 -> Buscando minha primeira oportunidade como Dev Java Júnior
 
 --> Como me encontrar
